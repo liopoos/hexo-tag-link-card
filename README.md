@@ -1,4 +1,6 @@
-<center><h1>hero-tag-link-card</h1></center>
+# hero-tag-link-card
+
+![](https://img.shields.io/npm/l/hexo-tag-link-card.svg)
 
 Embed a link card on your [Hexo](https://hexo.io/) article.
 
