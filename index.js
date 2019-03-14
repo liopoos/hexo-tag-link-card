@@ -14,7 +14,7 @@ function renderTag(args) {
     }, title + desc);
     var aTag = util.htmlTag('a', {
         class: className,
-        a: url,
+        href: url,
         target: '_blank'
     }, content);
 
