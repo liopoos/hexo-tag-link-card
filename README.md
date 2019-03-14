@@ -1,13 +1,13 @@
 <center><h1>hero-tag-link-card</h1></center>
 
-Generate a link card on your [Hexo](https://hexo.io/) article.
+Embed a link card on your [Hexo](https://hexo.io/) article.
 
 ![](https://cdn.mayuko.cn/blog/20190314121644.png)
 
 ## Installation
 
 ```bash
-npm install hexo-tag-link-card
+npm install hexo-tag-link-card --save
 ```
 
 ## Usage
