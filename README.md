@@ -1,4 +1,4 @@
-# hero-tag-link-card
+# hexo-tag-link-card
 
 ![](https://img.shields.io/npm/l/hexo-tag-link-card.svg)
 
