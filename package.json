@@ -14,16 +14,16 @@
   "dependencies": {
     "hexo-util": "^0.6.3"
   },
-  "description": "<center><h1>hero-tag-link-card</h1></center>",
+  "description": "hexo-tag-link-card",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mayuko2012/hero-tag-link-card.git"
+    "url": "git+https://github.com/mayuko2012/hexo-tag-link-card.git"
   },
   "bugs": {
-    "url": "https://github.com/mayuko2012/hero-tag-link-card/issues"
+    "url": "https://github.com/mayuko2012/hexo-tag-link-card/issues"
   },
-  "homepage": "https://github.com/mayuko2012/hero-tag-link-card#readme"
+  "homepage": "https://github.com/mayuko2012/hexo-tag-link-card#readme"
 }
